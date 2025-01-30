@@ -1,5 +1,6 @@
 pool:
-  vmimage: ubuntu-latest
+  name: Default
+      
 steps:
 - script: echo Hello , World!!!
   displayName: 'First build'
